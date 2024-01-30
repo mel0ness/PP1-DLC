@@ -30,7 +30,7 @@ sortArray(orange);
 createItems(red, redBody, redTable);
 createItems(black, blackBody,blackTable);
 createItems(orange, orangeBody, orangeTable);
-createItems(red, greenBody, greenTable);
+createItems(green, greenBody, greenTable);
     }
     catch (error) {
 const Results = error;
