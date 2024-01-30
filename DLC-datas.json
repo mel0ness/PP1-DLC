@@ -1,0 +1,51 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Skyr framboise",
+        "quantity": "5",
+        "date": "29/01/2024"
+    },
+    {
+        "id": 2,
+        "name": "Fusilini 500g",
+        "quantity": "1",
+        "date": "25/12/2023"
+    },
+    {
+        "id": 3,
+        "name": "jus d'orange",
+        "quantity": "3",
+        "date": "02/02/2024"
+    },
+    {
+        "id": 4,
+        "name": "Salade verte",
+        "quantity": "2",
+        "date": "15/02/2024"
+    },
+    {
+        "id": 5,
+        "name": "Pizza bio",
+        "quantity": "2",
+        "date": "28/02/2024"
+    },
+    {
+        "id": 6,
+        "name": "Sorbet fraise",
+        "quantity": "1",
+        "date": "06/06/2024"
+    },
+    {
+        "id": 7,
+        "name": "emmental rapé 250g",
+        "quantity": "1",
+        "date": "01/01/2024"
+    },
+    {
+        "id": 8,
+        "name": "Sauce burger",
+        "quantity": "1",
+        "date": "17/01/2024"
+    }
+]
