@@ -19,7 +19,6 @@ async function getDatas() {
     try {
 const response = await fetch("https://mel0ness.github.io/PP1-DLC/DLC-datas.json");
 const Results = await response.json();
-console.log(Results);
 dateSort(Results);
 
 sortArray(red);
