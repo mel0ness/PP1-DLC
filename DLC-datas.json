@@ -127,12 +127,6 @@
         "date": "13/03/2025"
     },
     {
-        "id": 22,
-        "name": "Petits pains italiens",
-        "quantity": "2",
-        "date": "03/06/2025"
-    },
-    {
         "id": 23,
         "name": "Petits pains italiens",
         "quantity": "6",
@@ -537,7 +531,7 @@
     {
         "id": 91,
         "name": "galette Roquefort figues",
-        "quantity": "3",
+        "quantity": "2",
         "date": "01/12/2023"
     },
     {
