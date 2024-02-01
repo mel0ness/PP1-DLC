@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Single+Day&display=swap");
 
 *,
 ::before,
@@ -15,133 +15,146 @@ body {
 }
 
 .PP1-loader {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 10px;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-
-
 .PP1-dot {
-    background-color: #01476B;
-    width: 20px;
-    height: 20px;
-    border-radius: 100px;
-    animation: PP1bump 0.5s ease-in-out infinite;
+  background-color: #01476b;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  animation: PP1bump 0.5s ease-in-out infinite;
 }
 
 @keyframes PP1bump {
-    0% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(15px);
-    }
-    100% {
-        transform: translateY(0);
-    }
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 .PP1-dot2 {
-    animation-delay: 0.1s;
+  animation-delay: 0.1s;
 }
 .PP1-dot3 {
-    animation-delay: 0.2s;
+  animation-delay: 0.2s;
 }
 
 h1 {
-    font-family: 'Single Day', cursive;
-    color: #01476B;
-    text-align: center;
-    font-size: 3rem;
-    margin-top: 30px;
+  font-family: "Single Day", cursive;
+  color: #01476b;
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 30px;
 }
 
 caption {
-    font-family: 'Single Day', cursive;
-    color: #01476B;
-    font-size: 2rem;
+  font-family: "Single Day", cursive;
+  color: #01476b;
+  font-size: 2rem;
 }
 
 .PP1-table {
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    width: 50%;
-    border-collapse: separate;
-    border-radius: 10px;
-    border-spacing: 0;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 50%;
+  border-collapse: separate;
+  border-radius: 10px;
+  border-spacing: 0;
 }
 
 .PP1-black {
-    border: solid 3px black;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border: solid 3px black;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
 .PP1-red {
-    border: solid 3px red;
-    box-shadow: rgba(255, 0, 0, 0.25) 0px 14px 28px, rgba(255, 0, 0, 0.22) 0px 10px 10px;
+  border: solid 3px red;
+  box-shadow: rgba(255, 0, 0, 0.25) 0px 14px 28px,
+    rgba(255, 0, 0, 0.22) 0px 10px 10px;
 }
 .PP1-orange {
-    border: solid 3px orange;
-    box-shadow: rgba(200, 135, 0, 0.25) 0px 14px 28px, rgba(200, 135, 0, 0.22) 0px 10px 10px;
+  border: solid 3px orange;
+  box-shadow: rgba(200, 135, 0, 0.25) 0px 14px 28px,
+    rgba(200, 135, 0, 0.22) 0px 10px 10px;
 }
 .PP1-green {
-    border: solid 3px green;
-    box-shadow: rgba(0, 255, 0, 0.25) 0px 14px 28px, rgba(0, 255, 0, 0.22) 0px 10px 10px;
+  border: solid 3px green;
+  box-shadow: rgba(0, 255, 0, 0.25) 0px 14px 28px,
+    rgba(0, 255, 0, 0.22) 0px 10px 10px;
 }
 
-
 th {
-    border-right: 1px solid;
-    padding: 5px;
+  border-right: 1px solid;
+  padding: 5px;
 }
 
 th:last-child {
-    border-right: none;
+  border-right: none;
 }
 
 td {
-    border-right: 1px solid;
-    padding: 5px;
-    text-align: center;
-    border-top: 1px solid;
+  border-right: 1px solid;
+  padding: 5px;
+  text-align: center;
+  border-top: 1px solid;
 }
 
 .PP1-black td {
-    border-color: black;
+  border-color: black;
 }
 .PP1-red td {
-    border-color: red;
+  border-color: red;
 }
 .PP1-orange td {
-    border-color: orange;
+  border-color: orange;
 }
 .PP1-green td {
-    border-color: green;
+  border-color: green;
 }
 .PP1-black th {
-    border-color: black;
+  border-color: black;
 }
 .PP1-red th {
-    border-color: red;
+  border-color: red;
 }
 .PP1-orange th {
-    border-color: orange;
+  border-color: orange;
 }
 .PP1-green th {
-    border-color: green;
+  border-color: green;
 }
 
-
 td:last-child {
-    border-right: none;
+  border-right: none;
 }
 
 .invisible {
-    display: none
+  display: none;
+}
+
+button {
+  display: block;
+  font-size: 1.9rem;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  padding: 5px;
+  max-width: 85%;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px,
+    rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px,
+    rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
 }
