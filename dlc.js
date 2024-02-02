@@ -3,7 +3,6 @@ let red = [];
 let orange = [];
 let green = [];
 let oldDatas = [];
-let newDatas = [];
 
 const button = document.getElementById("DLjson");
 
@@ -25,9 +24,8 @@ async function getDatas() {
       "https://mel0ness.github.io/PP1-DLC/DLC-datas.json"
     );
     const Results = await response.json();
+    oldDatas = JSON.parse(JSON.stringify(Results));
     dateSort(Results);
-    // console.log(Results);
-    oldDatas = Results;
     sortArray(red);
     sortArray(green);
     sortArray(black);
@@ -122,7 +120,7 @@ const DL = () => {
   )}`;
   const link = document.createElement("a");
   link.href = jsonString;
-  link.download = "data.json";
+  link.download = "DLC-datas.json";
 
   link.click();
 };
