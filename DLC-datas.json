@@ -3,540 +3,540 @@
         "id": 1,
         "name": "Skyr framboise",
         "quantity": "4",
-        "date": "2024-02-19T23:00:00.000Z"
+        "date": "19/02/2024"
     },
     {
         "id": 2,
         "name": "Skyr framboise",
         "quantity": "2",
-        "date": "2024-02-20T23:00:00.000Z"
+        "date": "20/02/2024"
     },
     {
         "id": 3,
         "name": "Yaourts fruits",
         "quantity": "8",
-        "date": "2024-02-21T23:00:00.000Z"
+        "date": "23/02/2024"
     },
     {
         "id": 4,
         "name": "Nuggets vege",
         "quantity": "1",
-        "date": "2024-02-16T23:00:00.000Z"
+        "date": "23/02/2024"
     },
     {
         "id": 5,
         "name": "Taboulé 510g",
         "quantity": "1",
-        "date": "2024-02-10T23:00:00.000Z"
+        "date": "10/02/2024"
     },
     {
         "id": 6,
         "name": "Taboulé 300g",
         "quantity": "1",
-        "date": "2024-02-03T23:00:00.000Z"
+        "date": "03/02/2024"
     },
     {
         "id": 7,
         "name": "Tarama",
         "quantity": "1",
-        "date": "2024-02-22T23:00:00.000Z"
+        "date": "22/02/2024"
     },
     {
         "id": 8,
         "name": "Sauce burger",
         "quantity": "1",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 9,
         "name": "Jus d'orange 1,5L",
         "quantity": "2",
-        "date": "2024-05-30T22:00:00.000Z"
+        "date": "30/05/2024"
     },
     {
         "id": 10,
         "name": "Crispy oignons",
         "quantity": "1",
-        "date": "2024-02-28T23:00:00.000Z"
+        "date": "28/02/2024"
     },
     {
         "id": 11,
         "name": "Vinaigrette Tomates séchées",
         "quantity": "1",
-        "date": "2024-07-31T22:00:00.000Z"
+        "date": "31/07/2024"
     },
     {
         "id": 12,
         "name": "Mache",
         "quantity": "1",
-        "date": "2024-01-20T23:00:00.000Z"
+        "date": "20/01/2024"
     },
     {
         "id": 13,
         "name": "Pain de feta",
         "quantity": "1",
-        "date": "2024-04-07T22:00:00.000Z"
+        "date": "07/04/2024"
     },
     {
         "id": 14,
         "name": "Cheddar rapé",
         "quantity": "1",
-        "date": "2024-03-22T23:00:00.000Z"
+        "date": "22/03/2024"
     },
     {
         "id": 15,
         "name": "Poivrons",
         "quantity": "2 demi",
-        "date": "2024-02-29T23:00:00.000Z"
+        "date": "29/02/2024"
     },
     {
         "id": 16,
         "name": "Oignons rouges complets",
         "quantity": "2",
-        "date": "2024-04-30T22:00:00.000Z"
+        "date": "30/04/2024"
     },
     {
         "id": 17,
         "name": "Oignons rouges en morceau",
         "quantity": "1",
-        "date": "2024-02-29T23:00:00.000Z"
+        "date": "29/02/2024"
     },
     {
         "id": 18,
         "name": "café 1Kg ouvert",
         "quantity": "1",
-        "date": "2025-07-30T22:00:00.000Z"
+        "date": "30/07/2025"
     },
     {
         "id": 19,
         "name": "Mélange épices ouvert",
         "quantity": "1",
-        "date": "2025-05-30T22:00:00.000Z"
+        "date": "30/05/2025"
     },
     {
         "id": 20,
         "name": "café 1Kg ouvert",
         "quantity": "1",
-        "date": "2025-07-30T22:00:00.000Z"
+        "date": "30/07/2025"
     },
     {
         "id": 21,
         "name": "Petits pains muesli",
         "quantity": "16",
-        "date": "2025-03-12T23:00:00.000Z"
+        "date": "12/03/2025"
     },
     {
         "id": 22,
         "name": "Petits pains italiens",
         "quantity": "6",
-        "date": "2025-05-23T22:00:00.000Z"
+        "date": "23/05/2025"
     },
     {
         "id": 23,
         "name": "framboises surgelées 500g",
         "quantity": "1",
-        "date": "2025-01-25T23:00:00.000Z"
+        "date": "25/01/2025"
     },
     {
         "id": 24,
         "name": "fruits pour smoothie",
         "quantity": "5",
-        "date": "2024-03-31T22:00:00.000Z"
+        "date": "31/03/2024"
     },
     {
         "id": 25,
         "name": "Sorbet fraise",
         "quantity": "1",
-        "date": "2024-01-31T23:00:00.000Z"
+        "date": "31/01/2024"
     },
     {
         "id": 26,
         "name": "Sorbet framboise",
         "quantity": "1",
-        "date": "2023-09-30T22:00:00.000Z"
+        "date": "30/09/2023"
     },
     {
         "id": 27,
         "name": "Pizza 4 saisons",
         "quantity": "2",
-        "date": "2025-06-30T22:00:00.000Z"
+        "date": "30/06/2025"
     },
     {
         "id": 28,
         "name": "Tarte soleil pesto",
         "quantity": "1",
-        "date": "2024-07-25T22:00:00.000Z"
+        "date": "25/07/2024"
     },
     {
         "id": 29,
         "name": "Riz à l'italienne",
         "quantity": "1",
-        "date": "2025-06-30T22:00:00.000Z"
+        "date": "30/06/2025"
     },
     {
         "id": 30,
         "name": "Trio de fusili pesto",
         "quantity": "1",
-        "date": "2025-03-31T22:00:00.000Z"
+        "date": "31/03/2025"
     },
     {
         "id": 31,
         "name": "Riz basmati cuisiné",
         "quantity": "1",
-        "date": "2024-03-31T22:00:00.000Z"
+        "date": "31/03/2024"
     },
     {
         "id": 32,
         "name": "Poélé rustique",
         "quantity": "1",
-        "date": "2025-04-30T22:00:00.000Z"
+        "date": "30/04/2025"
     },
     {
         "id": 33,
         "name": "Mélange légumes grillés",
         "quantity": "1",
-        "date": "2024-03-25T23:00:00.000Z"
+        "date": "25/03/2024"
     },
     {
         "id": 34,
         "name": "Légumes à la basquaise",
         "quantity": "1",
-        "date": "2024-03-13T23:00:00.000Z"
+        "date": "13/03/2024"
     },
     {
         "id": 35,
         "name": "Poélé d'artichauts",
         "quantity": "1",
-        "date": "2024-02-29T23:00:00.000Z"
+        "date": "29/02/2024"
     },
     {
         "id": 36,
         "name": "Galettes mozza",
         "quantity": "3",
-        "date": "2024-06-06T22:00:00.000Z"
+        "date": "06/06/2024"
     },
     {
         "id": 37,
         "name": "Galettes mozza",
         "quantity": "4",
-        "date": "2024-05-03T22:00:00.000Z"
+        "date": "03/05/2024"
     },
     {
         "id": 38,
         "name": "Poélé de pdt",
         "quantity": "1",
-        "date": "2024-05-27T22:00:00.000Z"
+        "date": "27/05/2024"
     },
     {
         "id": 39,
         "name": "Palets de légumes",
         "quantity": "8",
-        "date": "2025-05-31T22:00:00.000Z"
+        "date": "31/05/2025"
     },
     {
         "id": 40,
         "name": "Riz à l'italienne",
         "quantity": "1",
-        "date": "2024-05-31T22:00:00.000Z"
+        "date": "31/05/2024"
     },
     {
         "id": 41,
         "name": "Légumes à la provençale",
         "quantity": "1",
-        "date": "2025-04-10T22:00:00.000Z"
+        "date": "10/04/2025"
     },
     {
         "id": 42,
         "name": "Légumes grillés",
         "quantity": "1",
-        "date": "2025-03-31T22:00:00.000Z"
+        "date": "31/03/2025"
     },
     {
         "id": 43,
         "name": "Aubergines grillées en tranche",
         "quantity": "1",
-        "date": "2024-07-10T22:00:00.000Z"
+        "date": "10/07/2024"
     },
     {
         "id": 44,
         "name": "Poélé de pdt",
         "quantity": "1",
-        "date": "2024-12-05T23:00:00.000Z"
+        "date": "05/12/2024"
     },
     {
         "id": 45,
         "name": "Poélé parisienne",
         "quantity": "1",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 46,
         "name": "Duo de poivrons",
         "quantity": "1",
-        "date": "2024-09-30T22:00:00.000Z"
+        "date": "30/09/2024"
     },
     {
         "id": 47,
         "name": "Pain complet",
         "quantity": "1",
-        "date": "2024-11-27T23:00:00.000Z"
+        "date": "27/11/2024"
     },
     {
         "id": 48,
         "name": "Mini rapés pdt",
         "quantity": "4",
-        "date": "2025-02-28T23:00:00.000Z"
+        "date": "28/02/2025"
     },
     {
         "id": 49,
         "name": "Bouchées de légumes",
         "quantity": "12",
-        "date": "2025-02-28T23:00:00.000Z"
+        "date": "28/02/2025"
     },
     {
         "id": 50,
         "name": "Sirop grenadie",
         "quantity": "1",
-        "date": "2024-03-31T22:00:00.000Z"
+        "date": "31/03/2024"
     },
     {
         "id": 51,
         "name": "Vinaigrette à la moutarde",
         "quantity": "1",
-        "date": "2024-06-30T22:00:00.000Z"
+        "date": "30/06/2024"
     },
     {
         "id": 52,
         "name": "Pâte à crèpe",
         "quantity": "1",
-        "date": "2023-12-20T23:00:00.000Z"
+        "date": "20/12/2023"
     },
     {
         "id": 53,
         "name": "Maccaroni 500gr",
         "quantity": "1",
-        "date": "2025-05-31T22:00:00.000Z"
+        "date": "31/05/2025"
     },
     {
         "id": 54,
         "name": "Fusilli de pois cassés",
         "quantity": "1",
-        "date": "2024-06-04T22:00:00.000Z"
+        "date": "04/06/2024"
     },
     {
         "id": 55,
         "name": "café 1Kg",
         "quantity": "1",
-        "date": "2025-07-29T22:00:00.000Z"
+        "date": "29/07/2025"
     },
     {
         "id": 56,
         "name": "Risotto 1Kg",
         "quantity": "1",
-        "date": "2023-12-31T23:00:00.000Z"
+        "date": "31/12/2023"
     },
     {
         "id": 57,
         "name": "Velouté 10 légumes",
         "quantity": "4",
-        "date": "2024-01-31T23:00:00.000Z"
+        "date": "31/01/2024"
     },
     {
         "id": 58,
         "name": "Roux pour bechamel",
         "quantity": "1",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 59,
         "name": "Quinoa 1kg",
         "quantity": "1",
-        "date": "2024-05-31T22:00:00.000Z"
+        "date": "31/05/2024"
     },
     {
         "id": 60,
         "name": "Mini tortiglioni 500gr",
         "quantity": "1",
-        "date": "2026-03-31T22:00:00.000Z"
+        "date": "31/03/2026"
     },
     {
         "id": 61,
         "name": "penne rigate 500gr",
         "quantity": "1",
-        "date": "2025-11-30T23:00:00.000Z"
+        "date": "30/11/2025"
     },
     {
         "id": 62,
         "name": "Coquillettes 1kg",
         "quantity": "1",
-        "date": "2026-03-31T22:00:00.000Z"
+        "date": "31/03/2026"
     },
     {
         "id": 63,
         "name": "Torsade 1Kg",
         "quantity": "1",
-        "date": "2026-05-31T22:00:00.000Z"
+        "date": "31/05/2026"
     },
     {
         "id": 64,
         "name": "Cheveux d'ange 500gr",
         "quantity": "1",
-        "date": "2023-12-31T23:00:00.000Z"
+        "date": "31/12/2023"
     },
     {
         "id": 65,
         "name": "Arôme fleur d'oranger",
         "quantity": "1",
-        "date": "2024-02-06T23:00:00.000Z"
+        "date": "06/02/2024"
     },
     {
         "id": 66,
         "name": "Confiture framboise",
         "quantity": "1",
-        "date": "2025-04-30T22:00:00.000Z"
+        "date": "30/04/2025"
     },
     {
         "id": 67,
         "name": "Perso rosso",
         "quantity": "1",
-        "date": "2026-06-30T22:00:00.000Z"
+        "date": "30/06/2026"
     },
     {
         "id": 68,
         "name": "Sauce napoletana",
         "quantity": "1",
-        "date": "2025-01-15T23:00:00.000Z"
+        "date": "15/01/2025"
     },
     {
         "id": 69,
         "name": "Betteraves en dés",
         "quantity": "2",
-        "date": "2025-10-30T23:00:00.000Z"
+        "date": "31/10/2025"
     },
     {
         "id": 70,
         "name": "Betteraves en tranches",
         "quantity": "3",
-        "date": "2025-01-30T23:00:00.000Z"
+        "date": "30/01/2025"
     },
     {
         "id": 71,
         "name": "Maïs boite",
         "quantity": "1",
-        "date": "2026-03-30T22:00:00.000Z"
+        "date": "30/03/2026"
     },
     {
         "id": 72,
         "name": "Maïs boite",
         "quantity": "1",
-        "date": "2025-12-30T23:00:00.000Z"
+        "date": "30/12/2025"
     },
     {
         "id": 73,
         "name": "Salsiffis",
         "quantity": "1",
-        "date": "2024-01-30T23:00:00.000Z"
+        "date": "30/01/2024"
     },
     {
         "id": 74,
         "name": "Haricots verts",
         "quantity": "1",
-        "date": "2025-08-30T22:00:00.000Z"
+        "date": "30/08/2025"
     },
     {
         "id": 75,
         "name": "Maïs petite boîte",
         "quantity": "1",
-        "date": "2025-07-31T22:00:00.000Z"
+        "date": "31/07/2025"
     },
     {
         "id": 76,
         "name": "Céréales petites boites",
         "quantity": "10",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 77,
         "name": "Biscuits canelles étoiles",
         "quantity": "1",
-        "date": "2024-06-29T22:00:00.000Z"
+        "date": "29/06/2024"
     },
     {
         "id": 78,
         "name": "Tranches olives",
         "quantity": "1",
-        "date": "2024-07-26T22:00:00.000Z"
+        "date": "26/07/2024"
     },
     {
         "id": 79,
         "name": "Pignons de pin",
         "quantity": "1",
-        "date": "2024-01-16T23:00:00.000Z"
+        "date": "16/01/2024"
     },
     {
         "id": 80,
         "name": "Gressins sésame",
         "quantity": "1",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 81,
         "name": "Bonbons violettes",
         "quantity": "2",
-        "date": "2024-08-31T22:00:00.000Z"
+        "date": "31/08/2024"
     },
     {
         "id": 82,
         "name": "Graines de tournesol",
         "quantity": "1",
-        "date": "2024-05-31T22:00:00.000Z"
+        "date": "31/05/2024"
     },
     {
         "id": 83,
         "name": "Crackers sésame",
         "quantity": "2",
-        "date": "2024-04-20T22:00:00.000Z"
+        "date": "20/04/2024"
     },
     {
         "id": 84,
         "name": "Mélange épices",
         "quantity": "1",
-        "date": "2024-05-08T22:00:00.000Z"
+        "date": "08/05/2024"
     },
     {
         "id": 85,
         "name": "Tortillas barbecue",
         "quantity": "1",
-        "date": "2024-04-26T22:00:00.000Z"
+        "date": "26/04/2024"
     },
     {
         "id": 86,
         "name": "Croq curry pavot",
         "quantity": "2",
-        "date": "2024-07-03T22:00:00.000Z"
+        "date": "03/07/2024"
     },
     {
         "id": 87,
         "name": "galette Roquefort figues",
         "quantity": "2",
-        "date": "2024-07-08T22:00:00.000Z"
+        "date": "08/07/2024"
     },
     {
         "id": 88,
         "name": "galette Roquefort figues",
         "quantity": "4",
-        "date": "2024-10-31T23:00:00.000Z"
+        "date": "31/10/2024"
     },
     {
         "id": 89,
         "name": "galette Roquefort figues",
         "quantity": "2",
-        "date": "2023-11-30T23:00:00.000Z"
+        "date": "30/11/2023"
     },
     {
         "id": 90,
         "name": "galette Tomattes paprika",
         "quantity": "4",
-        "date": "2024-10-24T22:00:00.000Z"
+        "date": "24/10/2024"
     }
 ]

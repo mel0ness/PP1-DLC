@@ -98,6 +98,7 @@ const createItems = (e, f, g) => {
     }
     loader.classList.add("invisible");
     g.classList.remove("invisible");
+    button.classList.remove("invisible");
   } else {
     return;
   }
