@@ -26,6 +26,7 @@ async function getDatas() {
     );
     const Results = await response.json();
     dateSort(Results);
+    console.log(Results);
     oldDatas = Results;
     sortArray(red);
     sortArray(green);
