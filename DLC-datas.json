@@ -18,12 +18,6 @@
         "date": "23/02/2024"
     },
     {
-        "id": 4,
-        "name": "Nuggets vege [tupperware]",
-        "quantity": "1",
-        "date": "23/02/2024"
-    },
-    {
         "id": 5,
         "name": "Taboulé 510g",
         "quantity": "1",
@@ -116,7 +110,7 @@
     {
         "id": 21,
         "name": "Petits pains muesli",
-        "quantity": "16",
+        "quantity": "12",
         "date": "12/03/2025"
     },
     {
