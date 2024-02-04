@@ -24,12 +24,6 @@
         "date": "10/02/2024"
     },
     {
-        "id": 6,
-        "name": "Taboulé [tupperware]",
-        "quantity": "1",
-        "date": "03/02/2024"
-    },
-    {
         "id": 8,
         "name": "Sauce burger",
         "quantity": "1",
@@ -52,12 +46,6 @@
         "name": "Vinaigrette Tomates séchées",
         "quantity": "1",
         "date": "31/07/2024"
-    },
-    {
-        "id": 12,
-        "name": "Mache",
-        "quantity": "1",
-        "date": "20/01/2024"
     },
     {
         "id": 13,
@@ -85,7 +73,7 @@
     },
     {
         "id": 18,
-        "name": "café 1Kg ouvert",
+        "name": "café boîte métal",
         "quantity": "1",
         "date": "30/07/2025"
     },
@@ -96,15 +84,9 @@
         "date": "30/05/2025"
     },
     {
-        "id": 20,
-        "name": "café 1Kg ouvert",
-        "quantity": "1",
-        "date": "30/07/2025"
-    },
-    {
         "id": 21,
         "name": "Petits pains muesli",
-        "quantity": "12",
+        "quantity": "8",
         "date": "12/03/2025"
     },
     {
@@ -502,12 +484,6 @@
         "name": "galette Roquefort figues",
         "quantity": "4",
         "date": "31/10/2024"
-    },
-    {
-        "id": 89,
-        "name": "galette Roquefort figues",
-        "quantity": "2",
-        "date": "30/11/2023"
     },
     {
         "id": 90,
