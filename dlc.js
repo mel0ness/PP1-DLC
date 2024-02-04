@@ -124,7 +124,3 @@ const DL = () => {
 
   link.click();
 };
-
-var el = document.createElement(script);
-el.src = "mySaveFiles.json?nocache=" + new Date().getTime();
-document.head.appendChild(el);
