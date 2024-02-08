@@ -45,7 +45,7 @@
   {
     "id": 15,
     "name": "Petits pains muesli",
-    "quantity": "8",
+    "quantity": "4",
     "date": "12/03/2025"
   },
   {
@@ -248,7 +248,6 @@
     "quantity": "1",
     "date": "30/04/2025"
   },
-  { "id": 61, "name": "Perso rosso", "quantity": "1", "date": "30/06/2026" },
   {
     "id": 62,
     "name": "Sauce napoletana",
