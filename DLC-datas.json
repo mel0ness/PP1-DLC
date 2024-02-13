@@ -67,12 +67,6 @@
     "date": "30/09/2023"
   },
   {
-    "id": 22,
-    "name": "Tarte soleil pesto",
-    "quantity": "1",
-    "date": "25/07/2024"
-  },
-  {
     "id": 23,
     "name": "Riz à l'italienne",
     "quantity": "1",
@@ -287,12 +281,6 @@
     "name": "Graines de tournesol",
     "quantity": "1",
     "date": "31/05/2024"
-  },
-  {
-    "id": 77,
-    "name": "Crackers sésame",
-    "quantity": "2",
-    "date": "20/04/2024"
   },
   { "id": 78, "name": "Mélange épices", "quantity": "1", "date": "08/05/2024" },
   {
