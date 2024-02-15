@@ -405,5 +405,11 @@
     "name": "Riz basmati 1kg taureau ailé",
     "quantity": "1",
     "date": "01/08/2026"
+  },
+  {
+    "id": 101,
+    "name": "Tuiles barbecue",
+    "quantity": "1",
+    "date": "19/06/2024"
   }
 ]
