@@ -143,12 +143,7 @@
   },
   { "id": 41, "name": "Pain complet", "quantity": "1", "date": "27/11/2024" },
   { "id": 42, "name": "Mini rapés pdt", "quantity": "4", "date": "28/02/2025" },
-  {
-    "id": 43,
-    "name": "Bouchées de légumes",
-    "quantity": "12",
-    "date": "28/02/2025"
-  },
+
   { "id": 44, "name": "Sirop grenadie", "quantity": "1", "date": "31/03/2024" },
   {
     "id": 45,
@@ -344,12 +339,6 @@
     "name": "Sauce burger 448g",
     "quantity": "1",
     "date": "01/10/2024"
-  },
-  {
-    "id": 98,
-    "name": "Saumon -25sel",
-    "quantity": "1",
-    "date": "11/03/2024"
   },
   {
     "id": 99,
