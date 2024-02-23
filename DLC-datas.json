@@ -371,12 +371,6 @@
     "date": "31/07/2024"
   },
   {
-    "id": 105,
-    "name": "Pizza chorizo fraîche",
-    "quantity": "1",
-    "date": "07/03/2024"
-  },
-  {
     "id": 106,
     "name": "Pizza chorizo surgelée",
     "quantity": "1",
@@ -393,12 +387,6 @@
     "name": "Chorizo",
     "quantity": "1",
     "date": "01/05/2024"
-  },
-  {
-    "id": 109,
-    "name": "Crackers cheddar",
-    "quantity": "1",
-    "date": "27/04/2024"
   },
   {
     "id": 110,
