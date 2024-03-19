@@ -114,7 +114,6 @@
     "quantity": "1",
     "date": "30/09/2024"
   },
-  { "id": 42, "name": "Mini rapés pdt", "quantity": "4", "date": "28/02/2025" },
 
   { "id": 44, "name": "Sirop grenadie", "quantity": "1", "date": "31/03/2024" },
   {
@@ -167,12 +166,6 @@
     "name": "Arôme fleur d'oranger",
     "quantity": "1",
     "date": "06/02/2024"
-  },
-  {
-    "id": 60,
-    "name": "Confiture framboise",
-    "quantity": "1",
-    "date": "30/04/2025"
   },
   {
     "id": 62,
@@ -270,22 +263,10 @@
     "date": "01/08/2026"
   },
   {
-    "id": 103,
-    "name": "Pago citron",
-    "quantity": "1",
-    "date": "06/08/2024"
-  },
-  {
     "id": 120,
     "name": "Lait chat",
     "quantity": "1",
     "date": "23/09/2024"
-  },
-  {
-    "id": 121,
-    "name": "Jus d'orange",
-    "quantity": "1",
-    "date": "31/05/2024"
   },
   {
     "id": 122,
@@ -348,40 +329,16 @@
     "date": "11/04/2024"
   },
   {
-    "id": 138,
-    "name": "Jus d'orange 1L",
-    "quantity": "1",
-    "date": "31/07/2024"
-  },
-  {
     "id": 139,
     "name": "Vinaigrette tomates sechees",
     "quantity": "1",
     "date": "01/09/2024"
   },
   {
-    "id": 141,
-    "name": "Saucisses végé",
-    "quantity": "2",
-    "date": "06/04/2024"
-  },
-  {
     "id": 142,
     "name": "Sauce américaine",
     "quantity": "1",
     "date": "01/12/2024"
-  },
-  {
-    "id": 144,
-    "name": "Pain hot dog",
-    "quantity": "2",
-    "date": "14/04/2024"
-  },
-  {
-    "id": 145,
-    "name": "Tranches fromge burger",
-    "quantity": "1",
-    "date": "12/07/2024"
   },
   {
     "id": 146,
@@ -394,12 +351,6 @@
     "name": "Chipo happyvore",
     "quantity": "1",
     "date": "22/03/2024"
-  },
-  {
-    "id": 148,
-    "name": "Merguez vege",
-    "quantity": "1",
-    "date": "09/04/2024"
   },
   {
     "id": 149,
@@ -432,24 +383,6 @@
     "date": "06/04/2024"
   },
   {
-    "id": 154,
-    "name": "Chorizzo tranches",
-    "quantity": "1",
-    "date": "06/05/2024"
-  },
-  {
-    "id": 155,
-    "name": "Harry's bio pain",
-    "quantity": "1",
-    "date": "26/03/2024"
-  },
-  {
-    "id": 156,
-    "name": "Tarama marque repère",
-    "quantity": "1",
-    "date": "02/04/2024"
-  },
-  {
     "id": 157,
     "name": "Tomates roties",
     "quantity": "1",
@@ -458,7 +391,7 @@
   {
     "id": 158,
     "name": "Tomates séchées",
-    "quantity": "2",
+    "quantity": "1",
     "date": "09/01/2027"
   },
   {
